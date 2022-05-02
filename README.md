@@ -1,2 +1,2 @@
 # app-error
-AppError class extends standard Error class and add some useful functionality
+AppError class extends standard Error class and add some extra functionality
